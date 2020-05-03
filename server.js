@@ -3,9 +3,8 @@ const Inert = require("@hapi/inert");
 const Gun = require("gun");
 
 const server = new Hapi.Server({
-  port: 8800,
-  // host: "0.0.0.0", // needed for Render deployment
-  host: "localhost", // needed for Render deployment
+  port: 8765,
+  host: "0.0.0.0", // needed for Render deployment
 });
 
 async function runtime() {
