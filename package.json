@@ -1,5 +1,5 @@
 {
-  "name": "scroll-chat-server",
+  "name": "scroll.chat.server",
   "version": "0.1.0",
   "scripts": {
     "start": "node server.js"
