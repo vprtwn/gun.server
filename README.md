@@ -1,4 +1,4 @@
-# scroll.chat.server
+# side.land
 
-GunDB server peer for [scroll.chat](https://github.com/benzguo/scroll.chat)
+GunDB server peer
 
