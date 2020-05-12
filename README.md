@@ -1,4 +1,3 @@
-# side.land
+# gun.server
 
-GunDB server peer
-
+`yarn start`
